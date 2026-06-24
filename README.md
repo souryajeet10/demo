@@ -1,2 +1,4 @@
 # demo
-THis is mt first GIT repository
+THis is my first GIT repository
+<br>
+Author:SOURYA
